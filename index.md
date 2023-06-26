@@ -16,6 +16,12 @@ Sarcastic speech synthesis, the ability to generate speech that conveys sarcasm,
 ## Ground Truth For Finetuned HiFi-GAN
 
 ## Finetuned Fastspeech2 & Finetuned HiFi-GAN
+### Single-speaker()
+
+### Multi-Speaker
+<audio controls="controls">
+    <source type="audio/wav" src="audio/1_80.wav"></source>
+</audio>
 
 
 
