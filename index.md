@@ -9,6 +9,9 @@ Sarcastic speech synthesis, the ability to generate speech that conveys sarcasm,
   <audio controls="controls">
     <source type="audio/wav" src="audio/1_80.wav"></source>
   </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/1_70.wav"></source>
+  </audio>
 </p>
 
 ## Ground Truth for HiFi-GAN
@@ -32,6 +35,10 @@ Sarcastic speech synthesis, the ability to generate speech that conveys sarcasm,
 
 <audio controls="controls">
     <source type="audio/wav" src="audio/1_507_2_multi.wav"></source>
+</audio>
+
+<audio controls="controls">
+    <source type="audio/wav" src="audio/1_6427_2_multi.wav"></source>
 </audio>
 
 
