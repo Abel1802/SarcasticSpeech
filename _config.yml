@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 github:
-  is_project_page: false
+  is_project_page: true
   
-title: SarcasticSpeech: Text To Speech For Sarcasm in Low-Resource Scenarios
+title: SarcasticSpeech:Text To Speech For Sarcasm in Low-Resource Scenarios
