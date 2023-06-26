@@ -1,8 +1,8 @@
 ## Abstract
 Sarcastic speech synthesis, the ability to generate speech that conveys sarcasm, can have several significant implications in various contexts. This study presents a pioneering attempt to apply transfer learning techniques from a diverse speech style dataset to the challenging domain of sarcastic speech synthesis. The limited availability of specific sarcastic speech data poses significant challenges in capturing the expressive nature of sarcasm. By leveraging transfer learning, a pre-trained model is fine-tuned using a dataset encompassing various speech styles, including sarcastic speech. The experimental results indicate moderate performance improvements in sarcastic speech synthesis through transfer learning. Moving forward, future work will explore the application of multi-model approaches to enhance sarcastic speech synthesis, aiming to further enhance the expressive capabilities and naturalness of generated sarcastic speech.
 
-## Original Speaker Samples new
-<table style="width:100%">
+## Original Speaker Samples new new
+<table>
   <tr>
     <td>
 		<audio controls><source src="audio/1_60.wav" ></audio>
