@@ -5,10 +5,10 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
 ## Original Speaker Samples
 <p>
   <audio controls="controls">
-    <source type="audio/wav" src="source/audio/world1.wav"></source>
+    <source type="audio/wav" src="audio/1_60.wav"></source>
   </audio>
   <audio controls="controls">
-    <source type="audio/wav" src="source/audio/train1.wav"></source>
+    <source type="audio/wav" src="audio/1_80.wav"></source>
   </audio>
 </p>
 
