@@ -57,8 +57,8 @@ Sarcastic speech synthesis, the ability to generate speech that conveys sarcasm,
   </tr>
 </table>
 
-## Finetuned Fastspeech2 & Finetuned HiFi-GAN
-### Single-speaker
+## Finetuned FastSpeech2 & Finetuned HiFi-GAN
+#### Finetuned FastSpeech2 on a Single-speaker
 <table>
   <tr>
     <td style="white-space:nowrap;">
@@ -67,10 +67,13 @@ Sarcastic speech synthesis, the ability to generate speech that conveys sarcasm,
 	<td style="white-space:nowrap;">
 		<audio controls><source src="audio/1_507_2.wav" ></audio>
 	</td>
+	<td style="white-space:nowrap;">
+		<audio controls><source src="audio/1_175_2.wav" ></audio>
+	</td>
   </tr>
 </table>
 
-### Multi-Speaker
+#### Finetuned FastSpeech2 on Multi-Speakers
 <table>
   <tr>
     <td style="white-space:nowrap;">
