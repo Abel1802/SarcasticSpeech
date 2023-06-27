@@ -1,5 +1,4 @@
-theme: jekyll-theme-cayman
-github:
-  is_project_page: true
-  
 title: SarcasticSpeech:Text To Speech For Sarcasm in Low-Resource Scenarios
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+theme: jekyll-theme-cayman
