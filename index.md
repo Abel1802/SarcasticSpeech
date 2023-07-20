@@ -88,5 +88,20 @@ Sarcastic speech synthesis, the ability to generate speech that conveys sarcasm,
   </tr>
 </table>
 
+#### Pre-trained FastSpeech2 on LJSpeech
+<table>
+  <tr>
+    <td style="white-space:nowrap;">
+		<audio controls><source src="audio/1_467_2_fs2.wav" ></audio>
+	</td>
+	<td style="white-space:nowrap;">
+		<audio controls><source src="audio/1_507_2_fs2.wav" ></audio>
+	</td>
+	<td style="white-space:nowrap;">
+		<audio controls><source src="audio/1_6427_2_fs2.wav" ></audio>
+	</td>
+  </tr>
+</table>
+
 ---
 ## Multi-modal for SarcasticSpeech(To be continued...)
