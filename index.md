@@ -27,7 +27,7 @@ Sarcastic speech synthesis, the ability to generate speech that conveys sarcasm,
   </tr>
 </table>
 
-## Ground Truth for HiFi-GAN
+## Ground Truth for Pre-trained HiFi-GAN
 <table>
   <tr>
     <td style="white-space:nowrap;">
