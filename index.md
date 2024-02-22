@@ -65,7 +65,31 @@
   </audio>
 </p>
 
-### Denoise by Davinci Resolve
+#### Denoise by Davinci Resolve
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/DavinciResolve/1_60.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/DavinciResolve/1_70.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/DavinciResolve/1_105.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/DavinciResolve/1_175.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/DavinciResolve/2_627.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/DavinciResolve/2_626.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/DavinciResolve/2_623.wav"></source>
+  </audio>
+</p>
+
 
 ### Finetuned Fastspeech2(on MUStARD)
 
