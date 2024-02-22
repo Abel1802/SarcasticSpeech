@@ -46,22 +46,22 @@
     <source type="audio/wav" src="audio/Feb-22/voicefixer_mode0/1_60.wav"></source>
   </audio>
   <audio controls="controls">
-    <source type="audio/wav" src="audio/voicefixer_mode0/1_70.wav"></source>
+    <source type="audio/wav" src="audio/Feb-22/voicefixer_mode0/1_70.wav"></source>
   </audio>
   <audio controls="controls">
-    <source type="audio/wav" src="audio/voicefixer_mode0/1_105.wav"></source>
+    <source type="audio/wav" src="audio/Feb-22/voicefixer_mode0/1_105.wav"></source>
   </audio>
   <audio controls="controls">
-    <source type="audio/wav" src="audio/voicefixer_mode0/1_175.wav"></source>
+    <source type="audio/wav" src="audio/Feb-22/voicefixer_mode0/1_175.wav"></source>
   </audio>
   <audio controls="controls">
-    <source type="audio/wav" src="audio/voicefixer_mode0/2_627.wav"></source>
+    <source type="audio/wav" src="audio/Feb-22/voicefixer_mode0/2_627.wav"></source>
   </audio>
   <audio controls="controls">
-    <source type="audio/wav" src="audio/voicefixer_mode0/2_626.wav"></source>
+    <source type="audio/wav" src="audio/Feb-22/voicefixer_mode0/2_626.wav"></source>
   </audio>
   <audio controls="controls">
-    <source type="audio/wav" src="audio/voicefixer_mode0/2_623.wav"></source>
+    <source type="audio/wav" src="audio/Feb-22/voicefixer_mode0/2_623.wav"></source>
   </audio>
 </p>
 
