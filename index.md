@@ -1,5 +1,8 @@
 ## Experiment results for sarcastic TTS
 
+## Pipleline for sarcastic speech synthesis
+![An overview of SarcasticTTS](image/pipeline_sarcasticTTS.png)
+
 ### Update by Feb 22
 - Denoised effect
     - voicefixer
