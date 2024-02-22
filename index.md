@@ -91,11 +91,39 @@
 </p>
 
 
-### Finetuned Fastspeech2(on MUStARD)
+### Finetuned FS2(MUStARD, w/o denosing)
 
-### Finetuned Fastspeech2(on denoised MUStARD, voicefixer)
+### Finetuned FS2(MUStARD, w voicefixer)
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_mustard/1_60_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_mustard/1_70_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_mustard/1_105_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_mustard/1_175_2.wav"></source>
+  </audio>
+</p>
 
-### Finetuned Fastspeech2(on denoised MUStARD, Davinci Resolve)
+### Finetuned Fastspeech2(MUStARD, w DavinciResolve)
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_davinci_mustard/1_60_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_davinci_mustard/1_70_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_davinci_mustard/1_105_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_davinci_mustard/1_175_2.wav"></source>
+  </audio>
+</p>
 
 ## Without sarcasm labels
 
