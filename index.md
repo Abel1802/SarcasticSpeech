@@ -15,20 +15,55 @@
     - w/o denoise
     - w/ voicefixer
 
-### Original Samples
+#### Original Samples
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="audio/1_60.wav"></source>
   </audio>
   <audio controls="controls">
-    <source type="audio/wav" src="audio/1_80.wav"></source>
+    <source type="audio/wav" src="audio/1_70.wav"></source>
   </audio>
   <audio controls="controls">
-    <source type="audio/wav" src="audio/1_70.wav"></source>
+    <source type="audio/wav" src="audio/1_105.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/1_175.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/2_627.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/2_626.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/2_623.wav"></source>
   </audio>
 </p>
 
-### Denoise by voicefixer
+#### Denoise by voicefixer
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/voicefixer_mode0/1_60.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/voicefixer_mode0/1_70.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/voicefixer_mode0/1_105.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/voicefixer_mode0/1_175.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/voicefixer_mode0/2_627.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/voicefixer_mode0/2_626.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/voicefixer_mode0/2_623.wav"></source>
+  </audio>
+</p>
 
 ### Denoise by Davinci Resolve
 
