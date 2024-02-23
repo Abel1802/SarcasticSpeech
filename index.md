@@ -127,6 +127,15 @@
 
 ## Without sarcasm labels
 
+| Spkear | Amount |
+| Chandler | 2566 |
+| Joey | 3018 |
+| Monica | 2598 |
+| Phoebe | 2642 |
+| Rachel | 2870 |
+| Ross | 2917 |
+| Total | 16611 |
+
 #### Pre-trained on Friends TV
 <p>
   <audio controls="controls">
@@ -189,6 +198,6 @@
 
 ### Pre-trained on Friends TV(denoised by Davinci Resolve)
 
-## With sarcasm labels
+## With sarcasm labels(to be continue...)
 
 ---
