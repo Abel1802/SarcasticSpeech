@@ -154,6 +154,7 @@
 | Total    | 16611  |
 
 #### Pre-trained on Friends TV(w/o denoise)
+On test set (from back-translated text)
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/1_60_2.wav"></source>
@@ -168,6 +169,7 @@
     <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/1_175_2.wav"></source>
   </audio>
 </p>
+On validation set(512)
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/dia0_utt4.wav"></source>
@@ -184,6 +186,7 @@
 </p>
 
 #### Pre-trained on Friends TV(denoised by voicerfixer)
+On test set (from back-translated text, spk: Chandler)
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/1_60_2.wav"></source>
@@ -198,6 +201,22 @@
     <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/1_175_2.wav"></source>
   </audio>
 </p>
+On test set (from back-translated text, spk: Rachel)
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/1_60_2_rachel.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/1_70_2_rachel.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/1_105_2_rachel.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/1_175_2_rachel.wav"></source>
+  </audio>
+</p>
+On validation set(512)
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav"></source>
