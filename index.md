@@ -7,10 +7,12 @@
 - Denoised effect
     - [voicefixer](https://github.com/haoheliu/voicefixer)
     - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
-- Fine-tuned FastSpeech 2 on MUStARD
+    - Adobe
+- Fine-tuned FastSpeech 2 on MUStARD(MUStARD++)
     - w/o denoise
     - w/ voicefixer
     - w/ Davinci Resolve
+    - w/ Adobe
 - Pre-trained FS2 on Friends
     - w/o denoise
     - w/ voicefixer
@@ -90,6 +92,9 @@
     <source type="audio/wav" src="audio/Feb-22/DavinciResolve/2_623.wav"></source>
   </audio>
 </p>
+
+#### Denoised by Adobe(from Xiyuan)
+
 
 ## Part 2. Fined-tuned FS2 on MUStARD
 
