@@ -5,8 +5,8 @@
 
 ### Update by Feb 22
 - Denoised effect
-    - ![voicefixer](https://github.com/haoheliu/voicefixer)
-    - Davinci Resolve
+    - [voicefixer](https://github.com/haoheliu/voicefixer)
+    - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
 - Fine-tuned FastSpeech 2 on MUStARD
     - w/o denoise
     - w/ voicefixer
