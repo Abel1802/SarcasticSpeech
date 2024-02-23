@@ -93,7 +93,21 @@
 
 ## Part 2. Fined-tuned FS2 on MUStARD
 
-#### Finetuned FS2(MUStARD, w/o denosing)
+#### Finetuned FS2(MUStARD, w/o denoise)
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_mustard/1_60_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_mustard/1_70_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_mustard/1_105_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_mustard/1_175_2.wav"></source>
+  </audio>
+</p>
 
 #### Finetuned FS2(MUStARD, w voicefixer)
 <p>
