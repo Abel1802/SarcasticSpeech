@@ -3,7 +3,7 @@
 ## An overview of sarcastic speech synthesis
 ![An overview of SarcasticTTS](image/pipeline_sarcasticTTS.png)
 
-### Update by Feb 22
+### Update by Feb 23
 - Denoised effect
     - [voicefixer](https://github.com/haoheliu/voicefixer)
     - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
