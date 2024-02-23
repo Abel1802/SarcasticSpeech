@@ -15,6 +15,7 @@
     - w/o denoise
     - w/ voicefixer
 
+## Part 1. Denoised effect
 #### Original Samples
 <p>
   <audio controls="controls">
@@ -90,6 +91,7 @@
   </audio>
 </p>
 
+## Part 2. Fined-tuned FS2 on MUStARD
 
 #### Finetuned FS2(MUStARD, w/o denosing)
 
@@ -125,20 +127,22 @@
   </audio>
 </p>
 
-## Friends without sarcasm labels
+## Part 3. Friends without sarcasm labels
+
 <center>
 
-| **Spkear** | **Amount** |
-| ------ | ------ |
-| Chandler | 2566 |
-| Joey | 3018 |
-| Monica | 2598 |
-| Phoebe | 2642 |
-| Rachel | 2870 |
-| Ross | 2917 |
-| **Total** | **16611** |
+| Spkear   | Amount |
+|----------|--------|
+| Chandler | 2566   |
+| Joey     | 3018   |
+| Monica   | 2598   |
+| Phoebe   | 2642   |
+| Rachel   | 2870   |
+| Ross     | 2917   |
+| Total    | 16611  |
 
 </center>
+
 
 #### Pre-trained on Friends TV(w/o denoise)
 <p>
