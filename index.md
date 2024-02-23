@@ -91,9 +91,9 @@
 </p>
 
 
-### Finetuned FS2(MUStARD, w/o denosing)
+#### Finetuned FS2(MUStARD, w/o denosing)
 
-### Finetuned FS2(MUStARD, w voicefixer)
+#### Finetuned FS2(MUStARD, w voicefixer)
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_mustard/1_60_2.wav"></source>
@@ -109,7 +109,7 @@
   </audio>
 </p>
 
-### Finetuned Fastspeech2(MUStARD, w DavinciResolve)
+#### Finetuned F2(MUStARD, w DavinciResolve)
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="audio/Feb-22/fs2_w_davinci_mustard/1_60_2.wav"></source>
@@ -127,7 +127,35 @@
 
 ## Without sarcasm labels
 
-### Pre-trained on Friends TV
+#### Pre-trained on Friends TV
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/dia0_utt4.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/dia1_utt0.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/dia1_utt2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/dia4_utt3.wav"></source>
+  </audio>
+</p>
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/1_60_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/1_70_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/1_105_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/1_175_2.wav"></source>
+  </audio>
+</p>
 
 ### Pre-trained on Friends TV(denoised by voicerfixer)
 
