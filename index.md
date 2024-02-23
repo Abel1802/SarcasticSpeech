@@ -129,8 +129,6 @@
 
 ## Part 3. Friends without sarcasm labels
 
-<center>
-
 | Spkear   | Amount |
 |----------|--------|
 | Chandler | 2566   |
@@ -140,9 +138,6 @@
 | Rachel   | 2870   |
 | Ross     | 2917   |
 | Total    | 16611  |
-
-</center>
-
 
 #### Pre-trained on Friends TV(w/o denoise)
 <p>
