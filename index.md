@@ -1,6 +1,6 @@
 ## Experiment results for sarcastic TTS
 
-## Pipleline for sarcastic speech synthesis
+## An overview of sarcastic speech synthesis
 ![An overview of SarcasticTTS](image/pipeline_sarcasticTTS.png)
 
 ### Update by Feb 22
@@ -130,20 +130,6 @@
 #### Pre-trained on Friends TV
 <p>
   <audio controls="controls">
-    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/dia0_utt4.wav"></source>
-  </audio>
-  <audio controls="controls">
-    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/dia1_utt0.wav"></source>
-  </audio>
-  <audio controls="controls">
-    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/dia1_utt2.wav"></source>
-  </audio>
-  <audio controls="controls">
-    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/dia4_utt3.wav"></source>
-  </audio>
-</p>
-<p>
-  <audio controls="controls">
     <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/1_60_2.wav"></source>
   </audio>
   <audio controls="controls">
@@ -156,8 +142,50 @@
     <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/1_175_2.wav"></source>
   </audio>
 </p>
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/dia0_utt4.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/dia1_utt0.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/dia1_utt2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/dia4_utt3.wav"></source>
+  </audio>
+</p>
 
 ### Pre-trained on Friends TV(denoised by voicerfixer)
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/1_60_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/1_70_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/1_105_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/1_175_2.wav"></source>
+  </audio>
+</p>
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/dia1_utt0.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/dia1_utt2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/dia4_utt3.wav"></source>
+  </audio>
+</p>
 
 ### Pre-trained on Friends TV(denoised by Davinci Resolve)
 
