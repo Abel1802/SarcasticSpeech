@@ -125,18 +125,22 @@
   </audio>
 </p>
 
-## Without sarcasm labels
+## Friends without sarcasm labels
+<center>
 
-| Spkear | Amount |
+| **Spkear** | **Amount** |
+| ------ | ------ |
 | Chandler | 2566 |
 | Joey | 3018 |
 | Monica | 2598 |
 | Phoebe | 2642 |
 | Rachel | 2870 |
 | Ross | 2917 |
-| Total | 16611 |
+| **Total** | **16611** |
 
-#### Pre-trained on Friends TV
+</center>
+
+#### Pre-trained on Friends TV(w/o denoise)
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="audio/Feb-22/fs2_wo_denoising_friends/1_60_2.wav"></source>
@@ -166,7 +170,7 @@
   </audio>
 </p>
 
-### Pre-trained on Friends TV(denoised by voicerfixer)
+#### Pre-trained on Friends TV(denoised by voicerfixer)
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="audio/Feb-22/fs2_w_mode0_friends/1_60_2.wav"></source>
@@ -196,8 +200,8 @@
   </audio>
 </p>
 
-### Pre-trained on Friends TV(denoised by Davinci Resolve)
+#### Pre-trained on Friends TV(denoised by Davinci Resolve)
 
-## With sarcasm labels(to be continue...)
+## Friends with sarcasm labels(to be continue...)
 
 ---
