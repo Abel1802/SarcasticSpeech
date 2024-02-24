@@ -19,6 +19,13 @@
 
 ## Part 1. Denoised effect
 #### Original Samples
+
+test on HTML
+<audio controls>
+    <source src="audio/1_60.wav" type="audio/wav" />
+<audio controls>
+
+test on MD
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="audio/1_60.wav"></source>
