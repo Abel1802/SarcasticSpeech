@@ -31,31 +31,6 @@ test on HTML
     <source src="audio/1_70.wav" type="audio/wav" />
 </audio>
 
-<table>
-  <tr>
-    <th>音频名称</th>
-    <th>播放器</th>
-  </tr>
-  <tr>
-    <td>音频1</td>
-    <td>
-      <audio controls>
-        <source src="audio/1_60.wav" type="audio/wav">
-      </audio>
-    </td>
-  </tr>
-  <tr>
-    <td>音频2</td>
-    <td>
-      <audio controls>
-        <source src="audio/1_70.wav" type="audio/wav">
-      </audio>
-    </td>
-  </tr>
-  <!-- 可以继续添加更多的音频行 -->
-</table>
-
-
 test on MD
 <p>
   <audio controls="controls">
