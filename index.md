@@ -24,6 +24,12 @@ test on HTML
 <audio controls>
     <source src="audio/1_60.wav" type="audio/wav" />
 </audio>
+<audio controls>
+    <source src="audio/1_70.wav" type="audio/wav" />
+</audio>
+<audio controls>
+    <source src="audio/1_70.wav" type="audio/wav" />
+</audio>
 
 <table>
   <tr>
