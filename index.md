@@ -31,9 +31,6 @@
 #### new table
 
 <style>
-  table {
-    width: 100%;
-  }
   audio {
     width: 20%;
   }
