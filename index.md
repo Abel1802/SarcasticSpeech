@@ -19,29 +19,6 @@
 
 ## Part 1. Denoised effect
 #### Original Samples
-
-# 音频列表1
-<style>
-  audio {
-    width: 20%;
-  }
-</style>
-
-| 类型   | Demo1                                    | Demo2                                    | Demo3                                    |
-| ------ | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| 格式1 | <audio controls="controls"><source type="audio/wav" src="audio/1_60.wav"></source></audio> | <audio controls="controls"><source type="audio/wav" src="audio/1_70.wav"></source></audio> | <audio controls="controls"><source type="audio/wav" src="audio/1_105.wav"></source></audio> |
-| 格式2 | <audio controls="controls"><source type="audio/wav" src="audio/1_60.wav"></source></audio> | <audio controls="controls"><source type="audio/wav" src="audio/1_70.wav"></source></audio> | <audio controls="controls"><source type="audio/wav" src="audio/1_105.wav"></source></audio> |
-| 格式3 | <audio controls="controls"><source type="audio/wav" src="audio/1_60.wav"></source></audio> | <audio controls="controls"><source type="audio/wav" src="audio/1_70.wav"></source></audio> | <audio controls="controls"><source type="audio/wav" src="audio/1_105.wav"></source></audio> |
-
-
-| 音频名称 | 播放 |
-| -------- | ---- |
-| 音频1    | [播放](audio/1_60.wav") |
-| 音频2    | [播放](audio/1_60.wav") |
-| 音频3    | [播放](audio/1_60.wav") |
-
-#### new table
-
 <style>
   audio {
     width: 20%;
@@ -194,6 +171,13 @@
     <source type="audio/wav" src="audio/Feb-22/fs2_w_davinci_mustard/1_175_2.wav"></source>
   </audio>
 </p>
+
+#### Finetuned FS2(MUSTARD++, w Adobe)
+
+#### Finetuned FS2(MUSTARD++(sarcastic), w Adobe)
+
+#### Finetuned FS2(MUSTARD++(non-sarcastic), w Adobe)
+
 
 ## Part 3. Friends without sarcasm labels
 
