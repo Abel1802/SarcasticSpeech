@@ -28,6 +28,21 @@
 | 音频2    | [播放](audio/1_60.wav") |
 | 音频3    | [播放](audio/1_60.wav") |
 
+<table>
+  <tr>
+    <td>
+      <audio controls="controls">
+        <source type="audio/wav" src="audio/1_60.wav"></source>
+      </audio>
+    </td>
+    <td>
+      <audio controls="controls">
+        <source type="audio/wav" src="audio/1_70.wav"></source>
+      </audio>
+    </td>
+  </tr>
+</table>
+
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="audio/1_60.wav"></source>
