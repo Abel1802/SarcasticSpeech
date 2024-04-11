@@ -22,6 +22,13 @@
 
 # 音频列表
 
+| 类型   | Demo1                                    | Demo2                                    | Demo3                                    |
+| ------ | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| 格式1 | <audio controls="controls"><source type="audio/wav" src="audio/1_60.wav"></source></audio> | <audio controls="controls"><source type="audio/wav" src="audio/1_70.wav"></source></audio> | <audio controls="controls"><source type="audio/wav" src="audio/1_105.wav"></source></audio> |
+| 格式2 | <audio controls="controls"><source type="audio/wav" src="audio/1_60.wav"></source></audio> | <audio controls="controls"><source type="audio/wav" src="audio/1_70.wav"></source></audio> | <audio controls="controls"><source type="audio/wav" src="audio/1_105.wav"></source></audio> |
+| 格式3 | <audio controls="controls"><source type="audio/wav" src="audio/1_60.wav"></source></audio> | <audio controls="controls"><source type="audio/wav" src="audio/1_70.wav"></source></audio> | <audio controls="controls"><source type="audio/wav" src="audio/1_105.wav"></source></audio> |
+
+
 | 音频名称 | 播放 |
 | -------- | ---- |
 | 音频1    | [播放](audio/1_60.wav") |
