@@ -28,6 +28,17 @@
 | 音频2    | [播放](audio/1_60.wav") |
 | 音频3    | [播放](audio/1_60.wav") |
 
+#### new table
+
+<style>
+  table {
+    width: 100%;
+  }
+  audio {
+    width: 100%;
+  }
+</style>
+
 <table>
   <tr>
     <td>
