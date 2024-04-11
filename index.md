@@ -19,6 +19,15 @@
 
 ## Part 1. Denoised effect
 #### Original Samples
+
+# 音频列表
+
+| 音频名称 | 播放 |
+| -------- | ---- |
+| 音频1    | [播放](audio/1_60.wav") |
+| 音频2    | [播放](audio/1_60.wav") |
+| 音频3    | [播放](audio/1_60.wav") |
+
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="audio/1_60.wav"></source>
