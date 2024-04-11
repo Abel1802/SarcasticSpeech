@@ -39,6 +39,7 @@
       <audio controls="controls">
         <source type="audio/wav" src="audio/1_70.wav"></source>
       </audio>
+    </td>
     <td>
       <audio controls="controls">
         <source type="audio/wav" src="audio/1_105.wav"></source>
