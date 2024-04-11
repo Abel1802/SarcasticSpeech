@@ -32,10 +32,10 @@
 
 <style>
   table {
-    width: 100%;
+    width: 25%;
   }
   audio {
-    width: 100%;
+    width: 25%;
   }
 </style>
 
