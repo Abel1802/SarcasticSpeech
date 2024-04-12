@@ -128,7 +128,7 @@
 </p>
 
 
-## Part 2. Fined-tuned FS2 on MUStARD
+## Part 2. Fined-tuned FS2 on MUStARD(MUSTARD++)
 
 #### Finetuned FS2(MUStARD, w/o denoise)
 <p>
@@ -226,6 +226,21 @@
   </audio>
 </p>
 
+#### Pre-trained FS2(LibriTTS)
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_libritts_800000/1_60_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_libritts_800000/1_70_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_libritts_800000/1_105_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_libritts_800000/1_175_2.wav"></source>
+  </audio>
+</p>
 
 ## Part 3. Friends without sarcasm labels
 
