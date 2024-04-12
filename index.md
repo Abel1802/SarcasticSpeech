@@ -179,10 +179,52 @@
 </p>
 
 #### Finetuned FS2(MUSTARD++, w Adobe)
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_adobe_mmsd_pp/1_60_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_adobe_mmsd_pp/1_70_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_adobe_mmsd_pp/1_105_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_adobe_mmsd_pp/1_175_2.wav"></source>
+  </audio>
+</p>
 
 #### Finetuned FS2(MUSTARD++(sarcastic), w Adobe)
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_adobe_mmsd_pp_1/1_60_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_adobe_mmsd_pp_1/1_70_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_adobe_mmsd_pp_1/1_105_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_adobe_mmsd_pp_1/1_175_2.wav"></source>
+  </audio>
+</p>
 
 #### Finetuned FS2(MUSTARD++(non-sarcastic), w Adobe)
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_adobe_mmsd_pp_0/1_60_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_adobe_mmsd_pp_0/1_70_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_adobe_mmsd_pp_0/1_105_2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/fs2_w_adobe_mmsd_pp_0/1_175_2.wav"></source>
+  </audio>
+</p>
 
 
 ## Part 3. Friends without sarcasm labels
