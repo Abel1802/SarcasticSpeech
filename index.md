@@ -17,33 +17,16 @@
     - w/o denoise
     - w/ voicefixer
 
-## Part 1. Denoised effect
-#### Original Samples
 <style>
   audio {
     width: 20%;
   }
 </style>
 
-<table>
-  <tr>
-    <td>
-      <audio controls="controls">
-        <source type="audio/wav" src="audio/1_60.wav"></source>
-      </audio>
-    </td>
-    <td>
-      <audio controls="controls">
-        <source type="audio/wav" src="audio/1_70.wav"></source>
-      </audio>
-    </td>
-    <td>
-      <audio controls="controls">
-        <source type="audio/wav" src="audio/1_105.wav"></source>
-      </audio>
-    </td>
-  </tr>
-</table>
+
+## Part 1. Denoised effect
+
+#### Original Samples
 
 <p>
   <audio controls="controls">
@@ -120,6 +103,29 @@
 </p>
 
 #### Denoised by Adobe(from Xiyuan)
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/mmsd_adobe/1_60.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/mmsd_adobe/1_70.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/mmsd_adobe/1_105.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/mmsd_adobe/1_175.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/mmsd_adobe/2_627.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/mmsd_adobe/2_626.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="audio/Feb-22/mmsd_adobe/2_623.wav"></source>
+  </audio>
+</p>
 
 
 ## Part 2. Fined-tuned FS2 on MUStARD
