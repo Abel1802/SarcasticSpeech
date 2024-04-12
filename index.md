@@ -178,7 +178,7 @@
   </audio>
 </p>
 
-#### <u>Finetuned FS2(MUSTARD++, w Adobe)</u>
+#### Finetuned FS2(MUSTARD++, w Adobe)
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="audio/Feb-22/fs2_w_adobe_mmsd_pp/1_60_2.wav"></source>
