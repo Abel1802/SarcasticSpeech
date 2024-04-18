@@ -19,26 +19,40 @@ Sarcastic speech synthesis, the ability to generate speech that conveys sarcasm,
 		<audio controls><source src="audio/1_60.wav" ></audio>
 	</td>
 	<td style="white-space:nowrap;">
-		<audio controls><source src="audio/1_80.wav" ></audio>
+		<audio controls><source src="audio/1_70.wav" ></audio>
 	</td>
 	<td style="white-space:nowrap;">
-		<audio controls><source src="audio/1_70.wav" ></audio>
+		<audio controls><source src="audio/1_105.wav" ></audio>
 	</td>
   </tr>
 </table>
 
-
-#### Finetuned FastSpeech2 on Multi-Speakers
+## Denoised Speaker Samples
 <table>
   <tr>
     <td style="white-space:nowrap;">
-		<audio controls><source src="audio/1_467_2_multi.wav" ></audio>
+		<audio controls><source src="audio/1_60_u.wav" ></audio>
 	</td>
 	<td style="white-space:nowrap;">
-		<audio controls><source src="audio/1_507_2_multi.wav" ></audio>
+		<audio controls><source src="audio/1_70_u.wav" ></audio>
 	</td>
 	<td style="white-space:nowrap;">
-		<audio controls><source src="audio/1_6427_2_multi.wav" ></audio>
+		<audio controls><source src="audio/1_105_u.wav" ></audio>
+	</td>
+  </tr>
+</table>
+
+## Finetuned FastSpeech2 on Multi-Speakers
+<table>
+  <tr>
+    <td style="white-space:nowrap;">
+		<audio controls><source src="audio/1_60_2.wav" ></audio>
+	</td>
+	<td style="white-space:nowrap;">
+		<audio controls><source src="audio/1_70_2.wav" ></audio>
+	</td>
+	<td style="white-space:nowrap;">
+		<audio controls><source src="audio/1_105_2.wav" ></audio>
 	</td>
   </tr>
 </table>
