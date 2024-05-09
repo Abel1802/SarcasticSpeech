@@ -17,12 +17,6 @@
     - w/o denoise
     - w/ voicefixer
 
-<style>
-  audio {
-    width: 20%;
-  }
-</style>
-
 
 ## Part 1. Denoised effect
 
