@@ -331,12 +331,11 @@ On validation set(512)
 
 ## Friends with sarcasm labels(to be continue...)
 
-| <center> Style prompt </center> | <center> Generated Speech </center>| <center> Baseline Speech </center> |
-| -------------------- | ---------------------- |
-| demo1 | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> |
-| demo1 | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> |
-| demo1 | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> |
-| demo1 | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> |
-| demo1 | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> |
+| <center> Style prompt </center> | <center> Generated Speech </center>| <center> Baseline Speech </center> | <center> Baseline Speech </center> |
+| -------------------- | ---------------------- | ------------------------- |
+| demo1 | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> |
+| demo1 | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> |
+| demo1 | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> |
+| demo1 | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload><audio> |
 
 ---
