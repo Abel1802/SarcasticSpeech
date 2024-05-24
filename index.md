@@ -341,9 +341,9 @@ On validation set(512)
 
 | <center> Methods </center> | <center> example1 </center>| <center> Example2 </center>|
 | -------------------- | ---------------------- |
-Fine-tuned FS2(PRO) | <audio src="audio/May-10/ft/1_60_0.wav" controls preload><audio> | <audio src="audio/May-10/ft/1_60_1.wav" controls preload><audio> |
-| Fine-tuned FS2(ILL) | <audio src="audio/May-10/ft/1_60_0.wav" controls preload><audio> | <audio src="audio/May-10/ft/1_60_1.wav" controls preload><audio> |
-| Fine-tuned FS2(Neutral) | <audio src="audio/May-10/ft/1_60_0.wav" controls preload><audio> | <audio src="audio/May-10/ft/1_60_1.wav" controls preload><audio> |
-| Fine-tuned FS2(Happy) | <audio src="audio/May-10/ft/1_60_0.wav" controls preload><audio> | <audio src="audio/May-10/ft/1_60_1.wav" controls preload><audio> |
+Fine-tuned FS2(PRO) | <audio src="audio/May-24/fs2-pro/1_60_1.wav" controls preload><audio> | <audio src="audio/May-24/fs2-pro/1_70_1.wav" controls preload><audio> |
+Fine-tuned FS2(ILL) | <audio src="audio/May-24/fs2-ill/1_60_1.wav" controls preload><audio> | <audio src="audio/May-24/fs2-ill/1_70_1.wav" controls preload><audio> |
+Fine-tuned FS2(Neutral) | <audio src="audio/May-24/fs2-neutral/1_60_1.wav" controls preload><audio> | <audio src="audio/May-24/fs2-neutral/1_70_1.wav" controls preload><audio> |
+Fine-tuned FS2(Happy) | <audio src="audio/May-24/fs2-happy/1_60_1.wav" controls preload><audio> | <audio src="audio/May-24/fs2-happy/1_70_1.wav" controls preload><audio> |
 
 ---
