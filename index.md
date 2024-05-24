@@ -337,7 +337,7 @@ On validation set(512)
 | FS2 + ReferenceEncoder | <audio src="audio/May-10/reference/1_60_2.wav" controls preload><audio> | <audio src="audio/May-10/reference/1_60_20.wav" controls preload><audio> | <audio src="audio/May-10/reference/1_70_2.wav" controls preload><audio> | <audio src="audio/May-10/reference/1_70_20.wav" controls preload><audio> |
 
 
-## Friends with sarcasm labels(update on May 24)
+## MUSTARD\_Plus\_Plus in different emotional types(update on May 24)
 
 | <center> Methods </center> | <center> example1 </center>| <center> Example2 </center>|
 | -------------------- | ---------------------- |
