@@ -336,10 +336,14 @@ On validation set(512)
 | FS2 + Sarcasm Label| <audio src="audio/May-10/label/1_60_0.wav" controls preload><audio> | <audio src="audio/May-10/label/1_60_1.wav" controls preload><audio> | <audio src="audio/May-10/label/1_70_0.wav" controls preload><audio> | <audio src="audio/May-10/label/1_70_1.wav" controls preload><audio> |
 | FS2 + ReferenceEncoder | <audio src="audio/May-10/reference/1_60_2.wav" controls preload><audio> | <audio src="audio/May-10/reference/1_60_20.wav" controls preload><audio> | <audio src="audio/May-10/reference/1_70_2.wav" controls preload><audio> | <audio src="audio/May-10/reference/1_70_20.wav" controls preload><audio> |
 
-| <center> Style prompt </center> | <center> Generated Speech </center>|
-| ------------- |
-| demo1 | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload></audio> |
-| demo2 | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload></audio> |
-| demo3 | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload></audio> |
-| demo4 | <audio src="audio/Feb-22/fs2_w_mode0_friends/dia0_utt4.wav" controls preload></audio> |
+
+## Friends with sarcasm labels(update on May 24)
+
+| <center> Methods </center> | <center> example1 </center>| <center> Example2 </center>|
+| -------------------- | ---------------------- |
+Fine-tuned FS2(PRO) | <audio src="audio/May-10/ft/1_60_0.wav" controls preload><audio> | <audio src="audio/May-10/ft/1_60_1.wav" controls preload><audio> |
+| Fine-tuned FS2(ILL) | <audio src="audio/May-10/ft/1_60_0.wav" controls preload><audio> | <audio src="audio/May-10/ft/1_60_1.wav" controls preload><audio> |
+| Fine-tuned FS2(Neutral) | <audio src="audio/May-10/ft/1_60_0.wav" controls preload><audio> | <audio src="audio/May-10/ft/1_60_1.wav" controls preload><audio> |
+| Fine-tuned FS2(Happy) | <audio src="audio/May-10/ft/1_60_0.wav" controls preload><audio> | <audio src="audio/May-10/ft/1_60_1.wav" controls preload><audio> |
+
 ---
