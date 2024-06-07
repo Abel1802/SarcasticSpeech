@@ -346,4 +346,12 @@ Fine-tuned FS2(ILL) | <audio src="audio/May-24/fs2-ill/1_60_1.wav" controls prel
 Fine-tuned FS2(Neutral) | <audio src="audio/May-24/fs2-neutral/1_60_1.wav" controls preload><audio> | <audio src="audio/May-24/fs2-neutral/1_70_1.wav" controls preload><audio> |
 Fine-tuned FS2(Happy) | <audio src="audio/May-24/fs2-happy/1_60_1.wav" controls preload><audio> | <audio src="audio/May-24/fs2-happy/1_70_1.wav" controls preload><audio> |
 
+
+## MUSTARD\_Plus\_Plus with reference speech(update on June 07)
+
+| <center> Methods </center> | <center> example1(reference1) </center>| <center> Example1(reference2) </center>|<center> Example1(reference3) </center>| <center> Example1(reference4) </center>|
+| -------------------- | ---------------------- |---------------------- |---------------------- |
+Fine-tuned FS2(w/o feedback) | <audio src="audio/June-7/ref_wo_fb/1_60_1.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_60_2.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_60_3.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_60_20.wav" controls preload><audio> |
+Fine-tuned FS2(w feedback) | <audio src="audio/June-7/ref_w_fb/1_60_1.wav" controls preload><audio> | <audio src="audio/June-7/ref_w_fb/1_60_2.wav" controls preload><audio> | <audio src="audio/June-7/ref_w_fb/1_60_3.wav" controls preload><audio> | <audio src="audio/June-7/ref_w_fb/1_60_20.wav" controls preload><audio> |
+
 ---
