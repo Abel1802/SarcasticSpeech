@@ -354,8 +354,10 @@ Fine-tuned FS2(Happy) | <audio src="audio/May-24/fs2-happy/1_60_1.wav" controls 
 Fine-tuned FS2(w/o feedback) | <audio src="audio/June-7/ref_wo_fb/1_60_1.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_60_2.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_60_3.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_60_20.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_70_1.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_70_2.wav" controls preload><audio>| <audio src="audio/June-7/ref_wo_fb/1_70_3.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_70_20.wav" controls preload><audio>
 Fine-tuned FS2(w/o feedback) | <audio src="audio/June-7/ref_w_fb/1_60_1.wav" controls preload><audio> | <audio src="audio/June-7/ref_w_fb/1_60_2.wav" controls preload><audio> | <audio src="audio/June-7/ref_w_fb/1_60_3.wav" controls preload><audio> | <audio src="audio/June-7/ref_w_fb/1_60_20.wav" controls preload><audio> | <audio src="audio/June-7/ref_w_fb/1_70_1.wav" controls preload><audio> | <audio src="audio/June-7/ref_w_fb/1_70_2.wav" controls preload><audio>| <audio src="audio/June-7/ref_w_fb/1_70_3.wav" controls preload><audio> | <audio src="audio/June-7/ref_w_fb/1_70_20.wav" controls preload><audio>
 
-## Evaluate on unseen data, from tweet sarcastic texts(update on June 14)
-| <center> Methods </center> | <center> pretrain </center>| <center> FT </center>|<center> FT (sarcastic) </center>| <center> FT (bert) </center>| <center> FT (ref) </center>| <center> FT (feedback) </center>|<center> FT (2*feedback) </center>|
-| -------------------- | ---------------------- |---------------------- |---------------------- | -------------------- | ---------------------- |---------------------- |
+
+## Evaluate on unseen data, from tweet sarcastic texts(update on June-14)
+
+| <center> Methods </center> | <center> pretrain </center>| <center> FT </center>|<center> FT (sarcastic) </center>| <center> FT (bert) </center>| <center> FT (ref) </center>| <center> FT (feedback) </center>|
+| -------------------- | ---------------------- |---------------------- |---------------------- | -------------------- | ---------------------- |
 
 ---
