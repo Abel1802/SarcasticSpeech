@@ -357,6 +357,12 @@ Fine-tuned FS2(w/o feedback) | <audio src="audio/June-7/ref_w_fb/1_60_1.wav" con
 
 ## Evaluate on unseen data, from tweet sarcastic texts(update on June-14)
 
+- size on the the toulouse team that pack be monstrous i cant see a welsh region ever win this money talk a they say,0
+- villainous pro tip change the device name on her bluetooth device so she doesnt forget u,0
+- if there one fictional place i could go christmas at hogwarts would be that place,0
+- i mean it a great cause theyre do it for but can we not have new xmas music thats well good,0
+- where do they get 1 22xg from without the pen,0
+
 | <center> text(from iSarcasm) </center> | <center> pretrain </center>| <center> FT </center>|<center> FT(sarcastic) </center>| <center> FT(bert) </center>| <center> FT(ref) </center>| <center> FT(feedback) </center>|<center> FT(2feedback) </center>|
 | -------------------- | ---------------------- |---------------------- |---------------------- | -------------------- | ---------------------- |---------------------- |
 size on the the toulouse team that pack be monstrous i cant see a welsh region ever win this money talk a they say,0 | <audio src="audio/June-14/pretrain/0_0.wav" controls preload><audio> | <audio src="audio/June-14/all/0_0.wav" controls preload><audio> | <audio src="audio/June-14/sarcastic/0_0.wav" controls preload><audio> | <audio src="audio/June-14/bert/0_0.wav" controls preload><audio> | <audio src="audio/June-14/ref/0_0.wav" controls preload><audio> | <audio src="audio/June-14/fb/0_0.wav" controls preload><audio>| <audio src="audio/June-14/fb2/0_0.wav" controls preload><audio> |
