@@ -356,5 +356,6 @@ Fine-tuned FS2(w/o feedback) | <audio src="audio/June-7/ref_w_fb/1_60_1.wav" con
 
 ## Evaluate on unseen data, from tweet sarcastic texts(update on June 14)
 | <center> Methods </center> | <center> pretrain </center>| <center> FT </center>|<center> FT (sarcastic) </center>| <center> FT (bert) </center>| <center> FT (ref) </center>| <center> FT (feedback) </center>|<center> FT (2*feedback) </center>|
+| -------------------- | ---------------------- |---------------------- |---------------------- | -------------------- | ---------------------- |---------------------- |
 
 ---
