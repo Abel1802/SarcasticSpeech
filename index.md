@@ -357,7 +357,7 @@ Fine-tuned FS2(w/o feedback) | <audio src="audio/June-7/ref_w_fb/1_60_1.wav" con
 
 ## Evaluate on unseen data, from tweet sarcastic texts(update on June-14)
 
-| <center> Methods </center> | <center> example1(reference1) </center>| <center> Example1(reference2) </center>|<center> Example1(reference3) </center>| <center> Example1(reference4) </center>| <center> example2(reference1) </center>| <center> Example2(reference2) </center>|<center> Example2(reference3) </center>| <center> Example2(reference4) </center>|
+| <center> Methods </center> | <center> pretrain </center>| <center> FT </center>|<center> FT(sarcastic) </center>| <center> FT(bert) </center>| <center> FT(ref) </center>| <center> FT(feedback) </center>|<center> FT(2feedback) </center>| <center> Example2(reference4) </center>|
 | -------------------- | ---------------------- |---------------------- |---------------------- | -------------------- | ---------------------- |---------------------- |---------------------- |
 Fine-tuned FS2(w/o feedback) | <audio src="audio/June-7/ref_wo_fb/1_60_1.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_60_2.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_60_3.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_60_20.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_70_1.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_70_2.wav" controls preload><audio>| <audio src="audio/June-7/ref_wo_fb/1_70_3.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_70_20.wav" controls preload><audio>
 
