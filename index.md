@@ -357,8 +357,9 @@ Fine-tuned FS2(w/o feedback) | <audio src="audio/June-7/ref_w_fb/1_60_1.wav" con
 
 ## Evaluate on unseen data, from tweet sarcastic texts(update on June-14)
 
-| <center> Methods </center> | <center> pretrain </center>| <center> FT </center>|<center> FT(sarcastic) </center>| <center> FT(bert) </center>| <center> FT(ref) </center>| <center> FT(feedback) </center>|<center> FT(2feedback) </center>| <center> Example2(reference4) </center>|
-| -------------------- | ---------------------- |---------------------- |---------------------- | -------------------- | ---------------------- |---------------------- |---------------------- |
-Fine-tuned FS2(w/o feedback) | <audio src="audio/June-7/ref_wo_fb/1_60_1.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_60_2.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_60_3.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_60_20.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_70_1.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_70_2.wav" controls preload><audio>| <audio src="audio/June-7/ref_wo_fb/1_70_3.wav" controls preload><audio> | <audio src="audio/June-7/ref_wo_fb/1_70_20.wav" controls preload><audio>
+| <center> text </center> | <center> pretrain </center>| <center> FT </center>|<center> FT(sarcastic) </center>| <center> FT(bert) </center>| <center> FT(ref) </center>| <center> FT(feedback) </center>|<center> FT(2feedback) </center>|
+| -------------------- | ---------------------- |---------------------- |---------------------- | -------------------- | ---------------------- |---------------------- |
+size on the the toulouse team that pack be monstrous i cant see a welsh region ever win this money talk a they say,0 | <audio src="audio/June-14/pretrain/0_0.wav" controls preload><audio> | <audio src="audio/June-14/all/0_0.wav" controls preload><audio> | <audio src="audio/June-14/sarcastic/0_0.wav" controls preload><audio> | <audio src="audio/June-14/bert/0_0.wav" controls preload><audio> | <audio src="audio/June-14/ref/0_0.wav" controls preload><audio> | <audio src="audio/June-14/fb/0_0.wav" controls preload><audio>| <audio src="audio/June-14/fb2/0_0.wav" controls preload><audio> |
+
 
 ---
