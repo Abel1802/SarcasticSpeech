@@ -385,9 +385,9 @@ text10 | <audio src="audio/June-14/pretrain/4_1.wav" controls preload><audio> | 
 
 
 ## StyleSpeech on MUSTARD Plus Plus (update on June-28)
-| <center> Methods </center> | <center> example1 </center> |
-| -------------------- |
 
+| <center> Methods </center> | <center> example1 </center> |
+| -------------------- | -------------------- |
 GroundTruth | <audio src="audio/Feb-22/mmsd_adobe/1_60.wav" controls preload><audio> |
 Pre-trained FS2 | <audio src="audio/Feb-22/mmsd_adobe/1_60.wav" controls preload><audio> |
 Fine-tuned FS2 | <audio src="audio/Feb-22/mmsd_adobe/1_60.wav" controls preload><audio> |
